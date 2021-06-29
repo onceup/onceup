@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @onceup
+- 🌱 I’m currently learning js, react
