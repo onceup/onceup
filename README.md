@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @onceup
-- 🌱 I’m currently learning js, react
+- 🌱 I’m currently working as a Frontend Developer
